@@ -2,12 +2,6 @@
 
 A responsive, modern e-commerce frontend application built with **React.js** and **Tailwind CSS**. This project simulates a typical online shopping experience with features like product listing, mini cart, full cart management, and responsive UI design.
 
-![Banner](./assets/hero-banner.jpg)
-
-## 🚀 Live Demo
-
-Coming soon...
-
 ## 📂 Project Structure
 
 e-commerce/ ├── public/ ├── src/ │ ├── assets/ # Images like logo and product photos │ ├── components/ # Reusable UI components (Header, Footer, MiniCart, etc.) │ ├── context/ # Global cart state (CartContext) │ ├── hooks/ # Custom React hooks (if any) │ ├── pages/ # Main pages (Home, Product Listing, Cart) │ ├── services/ # API logic (e.g., fetching products) │ ├── App.jsx # Main app wrapper with routing │ └── main.jsx # React entry point
